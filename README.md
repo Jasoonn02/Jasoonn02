@@ -23,6 +23,6 @@ Soy un Desarrollador Full Stack, egresado del bootcamp de Henry en crecimiento c
 
 # Contacto
 
-<a href="https://www.linkedin.com/in/jason-valderrama-b50587221/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a> 
+- Linkedin: https://www.linkedin.com/in/jason-valderrama-b50587221/
+- Correo: jason.02.97@gmail.com
+- Número de teléfono: +54 9 261 533 227 1
