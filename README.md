@@ -3,6 +3,15 @@
 # Sobre mí
 Soy un Desarrollador Full Stack, egresado del bootcamp de Henry en crecimiento contínuo en el mundo de la programación. Tengo conocimientos de HTML, CSS, Javascript, ReactJs, NodeJs, ReduxJs, SQL, Express y Git. Actualmente reforzando mis conocimientos adquiridos en el bootcamp y en la realización de proyectos.
 
+# Soft Skills
+
+- Análisis de Problemas
+- Adaptabilidad
+- Aprendizaje ágil
+- Autodidacta
+- Dedicación
+- Trabajo en equipo
+
 # Tech Skills
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/null/react-native.png"/>
