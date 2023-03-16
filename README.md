@@ -1,5 +1,7 @@
 # <h1 align="center"><b>Hola!, Soy Jason Valderrama </b></h1>
 
+<img src= "https://i.pinimg.com/originals/6f/6a/99/6f6a992bcd67d36f6c8fc91acbd2b7ed.jpg">
+
 # Sobre mí
 Soy un Desarrollador Full Stack, egresado del bootcamp de Henry en crecimiento contínuo en el mundo de la programación. Tengo conocimientos de HTML, CSS, Javascript, ReactJs, NodeJs, ReduxJs, SQL, Express y Git. Actualmente reforzando mis conocimientos adquiridos en el bootcamp y en la realización de proyectos.
 
